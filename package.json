@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "http://cjbassi.github.io/react-pascals-triangle",
   "dependencies": {
+    "lodash": "^4.17.4",
+    "mathjs": "^3.19.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17",
