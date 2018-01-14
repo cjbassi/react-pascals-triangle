@@ -8,11 +8,4 @@ const TriangleCell = styled.div`
     margin: 1px;
 `
 
-const Triangle = styled.div`
-    text-align: center;
-`
-
-export {
-  TriangleCell,
-  Triangle,
-}
+export default TriangleCell
